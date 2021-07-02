@@ -6,4 +6,4 @@ I love traveling, reading, taking photos, and musicals (Bollywood Buff). My resu
 
 This is where I work (MAP Communications, Inc)[https://www.mapcommunications.com]
 
-Meet Leo, little monster who keeps me on my toes <img src="./leo.jpg" width="700" height="850">
+Meet Leo, little 10 pound monster who keeps me on my toes <img src="./leo.jpg" width="700" height="850">
