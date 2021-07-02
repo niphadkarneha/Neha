@@ -9,4 +9,4 @@ This is where I work (MAP Communications, Inc)[https://www.mapcommunications.com
 Hoc est leo
 ![leo](./leo.jpg)
 
-<img src="./leo.jpg" width="750" height="500">
+<img src="./leo.jpg" width="700" height="500">
