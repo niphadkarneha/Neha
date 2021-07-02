@@ -7,4 +7,4 @@ I love traveling, reading, taking photos, and musicals (Bollywood Buff). My resu
 This is where I work (MAP Communications, Inc)[https://www.mapcommunications.com]
 
 Hoc est leo
-![leo](./leo.jpg)
+![leo](./leo.jpg | width=100)
