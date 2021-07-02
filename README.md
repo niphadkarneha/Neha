@@ -9,4 +9,4 @@ I love traveling, reading, taking photos, and musicals (Bollywood Buff). I'm lea
 
 Also, I'd like you to meet Leo, little 10 pound monster who keeps me on my toes <img src="./leo.jpg" width="700" height="850">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=niphadkarneha)
+
