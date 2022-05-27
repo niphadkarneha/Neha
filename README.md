@@ -6,4 +6,4 @@ My resume is available if you want to be all formal and the usual stuff ⬇. You
 
 Also, I'd like you to meet Leo, little 10 pound monster who keeps me on my toes
 <br/>
-<img style="float: left;" src="./leo.jpg" width="400" height="650">
+<img style="float: left;" src="./leo.jpg" width="400" height="550">
